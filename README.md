@@ -1,5 +1,7 @@
 TODO: Add more to the title of your project here
 This is a random sentence.
+
+This is for the R course.
 Here is another random sentence.
 # LearningR:
 
